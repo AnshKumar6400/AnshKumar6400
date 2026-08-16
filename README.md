@@ -1,49 +1,38 @@
-# Hi! I'm Ansh Kumar ⚡
+# Ansh Kumar Yadav
 
----
+Full-stack developer in Hyderabad. Currently at Rapid Circuitry, building AI and IoT systems.
 
-### Find Me At
+## What I work on
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshkumar6400/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anshkumar6400@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/anshkumar6400/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+Most of the systems I build are internal — ERPs, admin and content platforms, and
+realtime dashboards for industrial hardware. That makes the work as much about what
+happens after the merge as before it: Postgres, Docker, nginx and object storage on
+a VPS I run myself, rather than a managed platform doing it out of sight.
 
----
+**SOAR** — a CMS and the editorial site it publishes, split across two repos so an
+admin can be shown without exposing a client's. The public site reads the CMS API
+server-side over a private Docker network, so the admin has no public surface of its
+own. Content, roles and enquiries all move between the two halves.
+[Site](https://cms-public.anshkumar6400.xyz) ·
+[Admin](https://cms.anshkumar6400.xyz/admin/login) — sign in with the credentials
+printed on the login page and watch an edit reach the site.
 
-### About Me
+**Industrial IoT** — welding-machine telemetry over MQTT and WebSockets, with
+analytics and alerting on top.
 
-- 💻 I'm a passionate full-stack developer skilled in the **MERN stack**, constantly exploring new tools and frameworks.  
-- ⚙️ I love crafting performant, scalable applications with clean and responsive UI/UX.  
-- 🧠 I’m an avid problem solver and a consistent performer on platforms like LeetCode.  
-- 🤖 I'm currently diving into **AI, agentic systems, and real-world automation**.  
-- 🛠️ I also freelance — currently building a website for an **electrical service business** using WhatsApp integrations.  
-- 🚀 Always eager to learn, collaborate, and innovate!
+**ERP and operations software** — GST-compliant invoicing and inventory for
+manufacturing clients.
 
----
+## Stack
 
-### Tech & Tools I Use
+Day to day: Next.js, React, Node.js, Tailwind, PostgreSQL, Prisma, Docker, nginx.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+Also shipped with: Supabase, Redis, MQTT, WebSockets, BLE, Flutter, Python,
+Spring Boot, S3-compatible storage.
 
----
+## Links
 
-> _"The only way to do great work is to love what you do."_ — **Steve Jobs**
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=anshkumar6400&label=Profile%20views&color=0e75b6&style=flat" alt="anshkumar6400" />
-</p>
+- Portfolio — https://www.anshkumar6400.xyz
+- LinkedIn — https://www.linkedin.com/in/anshkumar6400/
+- LeetCode — https://leetcode.com/u/anshkumar6400/
+- Email — anshkumar6400@gmail.com
