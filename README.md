@@ -33,6 +33,6 @@ Spring Boot, S3-compatible storage.
 ## Links
 
 - Portfolio — https://www.anshkumar6400.xyz
-- LinkedIn — https://www.linkedin.com/in/anshkumar6400/
+- LinkedIn — https://www.linkedin.com/in/anshkumar6500/
 - LeetCode — https://leetcode.com/u/anshkumar6400/
 - Email — anshkumar6400@gmail.com
