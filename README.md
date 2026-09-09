@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,48:7c3aed,100:06b6d4&height=220&section=header&text=Ansh%20Kumar%20Yadav&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20%26%20IoT%20Builder&descAlignY=58&descSize=18" width="100%" alt="Ansh Kumar Yadav" />
+  <img src="./assets/profile-header.svg" width="100%" alt="Ansh Kumar Yadav — Full-Stack Developer, AI and IoT Builder" />
 </p>
 
 <p align="center">
@@ -66,16 +66,20 @@ I like owning the full journey: shaping the architecture, building the experienc
 ## Public GitHub snapshot
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AnshKumar6400&show_icons=true&hide_border=true&bg_color=00000000&title_color=22d3ee&text_color=94a3b8&icon_color=a78bfa&ring_color=7c3aed" alt="Ansh's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshKumar6400&layout=compact&hide_border=true&bg_color=00000000&title_color=22d3ee&text_color=94a3b8" alt="Most-used public repository languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnshKumar6400&theme=tokyonight" width="96%" alt="Ansh's public GitHub contribution summary" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnshKumar6400&theme=tokyonight" alt="Languages across public repositories" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnshKumar6400&theme=tokyonight" alt="Public GitHub statistics" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AnshKumar6400&theme=tokyonight&hide_border=true" alt="Public GitHub contribution streak" />
 </p>
 
 <p align="center">
   <sub>These cards reflect the public slice of my work; most active development is private.</sub>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnshKumar6400&bg_color=00000000&color=94a3b8&line=7c3aed&point=22d3ee&area=true&hide_border=true" width="96%" alt="Contribution activity graph" />
 </p>
 
 ## Let's build something useful
@@ -92,4 +96,3 @@ I'm open to conversations about software engineering, full-stack development, AI
   <img src="https://komarev.com/ghpvc/?username=AnshKumar6400&label=Profile%20views&color=7c3aed&style=flat-square" alt="Profile views" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,52:7c3aed,100:0f172a&height=110&section=footer" width="100%" alt="" />
