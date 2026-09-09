@@ -15,7 +15,7 @@
   <a href="https://leetcode.com/u/anshkumar6400/"><img src="https://img.shields.io/badge/LeetCode-Profile-f89f1b?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 </p>
 
-## Hey, I'm Ansh 👋
+## Hey, I'm Ansh 
 
 I'm a full-stack developer and 2026 graduate based in Hyderabad, India. I enjoy turning ambitious ideas into dependable software—from backend APIs and realtime data pipelines to polished interfaces and self-managed deployments.
 
