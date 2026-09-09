@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Ansh Kumar Yadav</title>
+  <desc id="desc">Full-Stack Developer, AI and IoT Builder</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="48%" stop-color="#17152c"/>
+      <stop offset="100%" stop-color="#082f3f"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8b5cf6"/>
+      <stop offset="50%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M 34 0 L 0 0 0 34" fill="none" stroke="#ffffff" stroke-opacity=".035" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="280" rx="28" fill="url(#background)"/>
+  <rect x="1.5" y="1.5" width="1197" height="277" rx="26.5" fill="none" stroke="url(#accent)" stroke-width="3" stroke-opacity=".75"/>
+  <rect width="1200" height="280" rx="28" fill="url(#grid)"/>
+
+  <circle cx="115" cy="68" r="92" fill="#7c3aed" opacity=".13">
+    <animate attributeName="cx" values="115;175;115" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".10;.20;.10" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1080" cy="218" r="118" fill="#06b6d4" opacity=".12">
+    <animate attributeName="cx" values="1080;1020;1080" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".09;.18;.09" dur="6s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="600" y="116" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="750" letter-spacing=".5">Ansh Kumar Yadav</text>
+  <rect x="390" y="137" width="420" height="4" rx="2" fill="url(#accent)" filter="url(#glow)">
+    <animate attributeName="opacity" values=".55;1;.55" dur="2.4s" repeatCount="indefinite"/>
+  </rect>
+  <text x="600" y="181" text-anchor="middle" fill="#a5b4fc" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="600" letter-spacing="2">FULL-STACK DEVELOPER • AI &amp; IoT BUILDER</text>
+  <text x="600" y="222" text-anchor="middle" fill="#94a3b8" font-family="JetBrains Mono, Consolas, monospace" font-size="17">idea → architecture → product → production</text>
+</svg>
